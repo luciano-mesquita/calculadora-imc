@@ -70,9 +70,9 @@ form button:hover {
 
 h1 {
     text-align: center;
-    color: rgb(13, 66, 78);
+    color: var(--primary-color);
 }
 
 b {
-    color: rgb(13, 66, 78);
+    color: var(--primary-color-darker);
 }
